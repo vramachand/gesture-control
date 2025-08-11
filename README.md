@@ -43,8 +43,8 @@ Run:
 
 ## File Structure
 
-├── game_option.py   # Main game script
-├── README.md        # This file
+- ├── game_option.py   # Main game script
+- ├── README.md        # This file
 
 ## How It Works
 - MediaPipe Hands detects hand landmarks in real time.
